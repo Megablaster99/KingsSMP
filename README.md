@@ -1,2 +1,0 @@
-# KingsSMP
-Kings SMP Website
